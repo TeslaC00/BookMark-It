@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "BookMark-It",
+  "description": "A Bookmark Extension to help you organise and access your bookmarks easily.",
+  "version": "1.0",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "bookmark.png"
+  }
+}

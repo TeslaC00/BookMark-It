@@ -1,0 +1,20 @@
+{
+  "name": "bookmark-it",
+  "version": "1.0.0",
+  "main": "popup.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/chrome": "^0.0.287",
+    "chrome-types": "^0.1.323"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}
