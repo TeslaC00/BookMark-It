@@ -4,7 +4,7 @@
 
     "compilerOptions": {
         "lib": ["ES2023","DOM"],
-        "module": "Node16",
+        "module": "ES2022",
         "target": "ES2022",
         "sourceMap": true,
         "outDir": "./dist",
@@ -12,7 +12,7 @@
         "strict": true,
         "esModuleInterop": true,
         "skipLibCheck": true,
-        "moduleResolution": "node16",
+        "moduleResolution": "node",
 
         "allowUnusedLabels": false,
         "allowUnreachableCode": false,
